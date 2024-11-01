@@ -3,4 +3,5 @@ numpy
 seaborn
 
 
--e .
+# -e . --> run only onces then you can comment it
+
